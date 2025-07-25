@@ -36,3 +36,24 @@ aws s3 rm
 ✔️ Understood role of ec2-user vs root
 ✔️ Installed sudo using user data script
 ✔️ Gained deeper understanding of Linux privilege management
+
+🔐 IAM Policy & Role Practice
+Created IAM user with programmatic access
+Attached custom IAM policies for S3 and EC2
+Assigned IAM role to EC2 instance for temporary access to AWS services (no access key used)
+
+💡 Real-World Learnings
+Handling EC2 failures and SSH connection issues
+Root vs sudo vs user-level permissions
+IAM policy debugging
+Secure file transfers (SSH, SCP, S3 CLI)
+Commands commonly asked in interviews
+
+📘 What's Next (Coming Weeks)
+Deploy static site via S3
+Introduction to DevOps: CI/CD, Jenkins, Docker
+Monitoring with CloudWatch
+Infrastructure as Code (IaC) with Terraform or CloudFormation
+
+🙋‍♂️ Maintained By
+Mahesh Ushir – Data Analyst & Automation Strategist
